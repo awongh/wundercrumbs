@@ -1,10 +1,18 @@
 # wundercrumbs
 
-A Clojure library designed to ... well, that part is up to you.
-
 ## Usage
 
-FIXME
+Vim + Clojure Repl Tutorial:
+
+https://hashrocket.com/blog/posts/screencast-clojure-and-vim-basics
+
+Mac OS Midi Issue:
+
+https://github.com/overtone/overtone/issues/394
+
+Overtone Homepage:
+
+https://github.com/overtone/overtone
 
 ## License
 
